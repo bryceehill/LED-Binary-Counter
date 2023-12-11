@@ -11,3 +11,28 @@ More instructions can be found for new users via the web page:
 https://www.mtech.edu/electrical-engineering/circuit-handout/
 
 Potential students can request a free complete system
+Pinout of the MSP430 are the following
+* 1.0 -
+ * 1.1 - RX0  UART Receive
+ * 1.2 - TX0  UART Transmit
+ * 1.3 - SW1  Pushbutton
+ * 1.4 -
+ * 1.5 -
+ * 1.6 -
+ * 1.7 -
+ * 2.0 - L8  LED 8
+ * 2.1 - L9  LED 9
+ * 2.2 -
+ * 2.3 -
+ * 2.4 -
+ * 2.5 -
+ * 2.6 -
+ * 2.7 -
+ * 3.0 - L0  LED 0
+ * 3.1 - L1  LED 1
+ * 3.2 - L2  LED 2
+ * 3.3 - L3  LED 3
+ * 3.4 - L4  LED 4
+ * 3.5 - L5  LED 5
+ * 3.6 - L6  LED 6
+ * 3.7 - L7  LED 7
