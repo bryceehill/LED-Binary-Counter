@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.3*%
+%TF.CreationDate,2025-08-22T13:27:39-06:00*%
+%TF.ProjectId,SWAG_BAR_LED_ARM,53574147-5f42-4415-925f-4c45445f4152,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.3) date 2025-08-22 13:27:39*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X77089000Y-89154000D02*
+X107442000Y-89154000D01*
+X107442000Y-109347000D01*
+X77089000Y-109347000D01*
+X77089000Y-89154000D01*
+M02*
