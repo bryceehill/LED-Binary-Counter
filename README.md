@@ -1,6 +1,30 @@
 # LED-Binary-Counter
 Public Files for the LED Binary Counter.  Modify, Code, Change, on your own.
 
+There are two versions.  The original one had a MSP430 G2553 as it's controller.  The new version uses an ATSAMD21E15B with added usb utility
+Both chips have 10 LEDs that they control.
+
+ATSAMD21E15B Documentation---------------------------------------------------------------------------
+
+
+Pinout
+PA00 - LED 0
+PA01 - LED 1
+PA02 - LED 2
+PA03 - LED 3
+PA04 - LED 4
+PA05 - LED 5
+PA06 - LED 6
+PA07 - LED 7
+PA08 - LED 8
+PA09 - LED 9
+PA16 - PushButton
+
+
+
+MSP430 Documentation---------------------------------------------------------------------------------
+
+
 This respository contains all of the files used to create the Montana Tech LED Bar Graph Counter
 The bar graph counter is a piece of SWAG intended for potential students.
 There are 10 LEDs controlled by an MSP430 G2553 Microcontroller (TI Look it up)
