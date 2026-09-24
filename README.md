@@ -1,10 +1,20 @@
+#Introduction
+
+The Montana Tech Binary Counter is a project created by the Electrical Engineering Department.  All files to recreate it are available here.  Potential students can request a binary counter through this link:
+https://www.mtech.edu/electrical-engineering/circuit-handout/index.html
+
+
+
+
+
+
 # LED-Binary-Counter
 Public Files for the LED Binary Counter.  Modify, Code, Change, on your own.
 
 There are two versions.  The original one had a MSP430 G2553 as it's controller.  The new version uses an ATSAMD21E15B with added usb utility
 Both chips have 10 LEDs that they control.
 
-ATSAMD21E15B Documentation---------------------------------------------------------------------------
+ARM - ATSAMD21E15B Documentation---------------------------------------------------------------------------
 
 
 Pinout
