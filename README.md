@@ -3,9 +3,11 @@
 The Montana Tech Binary Counter is a project created by the Electrical Engineering Department.  All files to recreate it are available here.  Potential students can request a binary counter through this link:
 https://www.mtech.edu/electrical-engineering/circuit-handout/index.html
 
+To get started plug the binary counter into a computer via a USB cable.  In windows download putty.exe, find the port associated with the counter using "Device Manager" and open that serial port.
+Getting started may need some direction.  Watch this video:
+https://youtu.be/mpABhzl5tEQ
 
-
-
+The current version of the binary counter is the ARM processor version.  You can find all connected files, firmware, designs within this repository.
 
 
 # LED-Binary-Counter
